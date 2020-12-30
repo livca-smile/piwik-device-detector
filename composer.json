@@ -20,7 +20,7 @@
         "source": "https://github.com/piwik/piwik"
     },
     "autoload": {
-        "psr-4": { "DeviceDetector\\": "" }
+        "psr-4": { "DeviceDetector\\DeviceDetector\\": "" }
     },
     "require": {
         "php": ">=5.3.2",
